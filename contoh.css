@@ -1,0 +1,72 @@
+* {margin=: 0; padding; 0}
+body {
+	width: 900px;
+	margin: auto;
+}
+
+header {
+	width: 900px;
+	height: 250px;
+}
+
+header img {
+	width: 900px;
+	height: 250px;
+}
+
+menu {
+	width: 880px;
+	height: 30px;
+	background-color: blue;
+	padding: 10px;
+}
+
+menu li {
+	list-style: none;
+	float: left;
+	margin-right: 20px;
+	margin-top: 5px;
+	color: #fff;
+}
+
+menu li a {
+	text-decoration: none;
+	color: #fff;
+}
+
+menu li a:hover{
+	color: black;
+}
+
+.bagian {
+	width: 100%;
+	overflow: hidden;
+	background-color: grey;
+}
+
+.bagian h1 {
+	text-align: center;
+}
+
+.bagian p {
+	text-align: justify;
+	margin: 10px 5px 5px 10px
+}
+
+.bagian h3 {
+	margin: 5px 5px 5px 10px
+}
+
+.bagian h4 {
+	margin: 10px 5px 5px 10px
+}
+
+.bagian h5 {
+	margin: 10px 5px 5px 10px
+}
+
+.bagian img {
+	width: 700px;
+	height: 250px;
+	margin: 10px 5px 5px 10px
+}
